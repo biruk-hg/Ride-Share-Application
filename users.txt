@@ -1,0 +1,10 @@
+#action,id,name,email,phone
+create,1,Bailee Ingram,bailee@gmail.com,901324234
+create,2,Katelyn Mejia,katelyn@gmail.com,907354237
+create,3,Karla Vargas,karla@gmail.com,901111256
+update,3,phone,9342129343
+create,4,Maxine Jacobs,maxine@gmail.com,921344634
+update,2,name,Kairo Singleton
+create,5,Colette Garrett,colette@gmail.com,90332445
+create,6,Kora Stanley,kora@gmail.com,90352445
+create,7,Jessica Cole,jessica@gmail.com,94332445

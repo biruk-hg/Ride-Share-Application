@@ -1,0 +1,17 @@
+#action,driver_id,rider_id,fare
+create,1,2,23.34
+create,1,5,12.98
+create,3,5,23.00
+create,4,2,21.32
+create,4,7,17.67
+create,4,7,2.54
+create,1,7,9.34
+create,1,6,3.72
+create,1,6,23.00
+create,3,2,45.34
+create,3,2,32.00
+create,4,5,2.43
+create,4,5,54.00
+create,1,6,34.34
+create,3,7,45.34
+create,1,6,76.34
